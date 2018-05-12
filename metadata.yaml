@@ -1,0 +1,30 @@
+_repo: Maahengen-salaisuusTohtori-salapoliisina_16668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Juva, Valter
+    aliases:
+    - Kenttä, Heikki
+    - Juvelius, Valter Henrik
+    birthdate: 1865
+    deathdate: 1922
+    gutenberg_agent_id: '6321'
+    url: http://www.gutenberg.org/2009/agents/6321
+    wikipedia: http://fi.wikipedia.org/wiki/Valter_Juva
+description: ''
+gutenberg_issued: '2005-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16668'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PH'
+title: 'Maahengen salaisuus: Tohtori salapoliisina'
+url: http://www.gutenberg.org/ebooks/16668
